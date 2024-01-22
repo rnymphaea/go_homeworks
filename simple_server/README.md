@@ -18,7 +18,7 @@ make cleandb
 **Доступно после запуска сервера :)**
 - получение списка песен:
 ```bash
-curl http://localhost:8080:server/songs
+curl http://localhost:8090:server/songs
 ```
 - добавление песни в базу данных:
 ```bash
